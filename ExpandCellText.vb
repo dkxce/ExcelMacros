@@ -2,7 +2,7 @@
 Sub ExpandCellValueByGroupOrOffsetToSeveralColumns()
   '
   'Макрос: разбивка строки по столбцам в зависимости от группировки или отступа
-  '        с добавление ячеек справа или слева с автозаполнение
+  '        с добавление ячеек справа или слева с автозаполнением
   'Excel VBA Macro
   'Author: Milok Zbrozek <milokz@gmail.com>
   '
