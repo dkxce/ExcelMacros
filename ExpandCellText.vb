@@ -83,7 +83,7 @@ Sub ExpandCellValueByGroupOrOffsetToSeveralColumns()
   For rNo = rNo To rMax 'перебираем все строки в таблице
     
     ' >>B
-    If byGroups Then 'в зависимости от чего разбираем иерархию строки
+    If byGroup Then 'в зависимости от чего разбираем иерархию строки
       off = Cells(rNo, cRead).Rows(1).OutlineLevel 'получаем уровень группировки
     Else
       off = Cells(rNo, cRead).IndentLevel 'получаем отступ
