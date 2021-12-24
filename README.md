@@ -11,3 +11,6 @@ Macros Scripts for MS Excel (Макросы для Microsoft Excel):
   * [ExpandCell_Right.vb](ExpandCell_Right.vb) - Разбивка строки по столбцам в зависимости от отступа с добавление ячеек справа
 
 * [InsertOrRemoveRow.vb](InsertOrRemoveRow.vb) - Добавление или удаление строки с сохранением формул
+
+## Библиотека внешний функций для вызова из макросов Excel
+Библиотеку и макросы вы найдете [ЗДЕСЬ](https://github.com/dkxce/DLL-for-EXCEL-Macros)
